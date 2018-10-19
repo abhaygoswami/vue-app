@@ -1,3 +1,4 @@
+
 html {
 	background-color: #EDF3FF;
 }
@@ -23,4 +24,15 @@ ul > li {
 	background-color: #1D185E;
 	color: #fff;
 	font-size: 22px;
+}
+
+.btn[disabled]{
+	text-decoration: line-through;
+}
+
+/*Comment for the New Styling*/
+
+.btn:hover {
+	background-color: #fff;
+	color: #1D185E;
 }
