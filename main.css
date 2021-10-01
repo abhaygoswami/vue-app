@@ -24,3 +24,9 @@ ul > li {
 	color: #fff;
 	font-size: 22px;
 }
+
+
+button {
+	display: flex;
+	justify-content: center;
+}
