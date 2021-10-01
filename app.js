@@ -1,7 +1,7 @@
 var vm = new Vue({
 	el: '#app',
 	data: {
-		header: 'Shopping App',
+		header: 'Shopping App v-1',
 		newItem: '',
 		items: [
 			'Buy some coffee',
